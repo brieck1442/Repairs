@@ -12,7 +12,8 @@ Repairing old electronics.
 
 <img width="482" height="639" alt="image" src="https://github.com/user-attachments/assets/d980f580-b7e7-43c3-9799-3e56cae92262" />
 
-<img width="488" height="634" alt="image" src="https://github.com/user-attachments/assets/2f635d9c-9279-4501-9c4e-d57eff9fc16e" />
+<img width="488" height="634" alt="image" src="https://github.com/user-attachments/assets/a5e23d8e-246e-44b2-9750-b6c6ca70dd3e" />
+
 
 
 It was just a matter of getting the right screen part from eBay. After a week, it arrived here, and I installed it! The top image is the finished product. The package came with double-sided adhesive tape.
